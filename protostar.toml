@@ -6,5 +6,11 @@ libs_path = "lib"
 
 ["protostar.contracts"]
 main = [
-    "contracts/main.cairo",
+    "contracts/forms.cairo",
 ]
+
+[profile.devnet.protostar.deploy]
+gateway-url = "http://127.0.0.1:5050/"
+
+[profile.testnet.protostar.deploy]
+network="alpha-goerli"
