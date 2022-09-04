@@ -1,0 +1,2 @@
+[![Tests](https://github.com/dpinones/template-protostar-ci/actions/workflows/tests.yml/badge.svg)](https://github.com/dpinones/template-protostar-ci/actions/workflows/tests.yml)
+# template-protostar-ci
